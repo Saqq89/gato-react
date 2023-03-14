@@ -90,7 +90,6 @@ export default function Game() {
       </div>
     </div>
   );
-  
 }
 
 function calculateWinner(squares) {
